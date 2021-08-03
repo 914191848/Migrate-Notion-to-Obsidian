@@ -1,7 +1,7 @@
 # Migrate-Notion-to-Obsidian
 Migrate Notion to Obsidian
 
-# properties_to_DataView_plug
+# properties_to_DataView_plug.py
 
 The unofficial plugins **[DataView](https://github.com/blacksmithgu/obsidian-dataview)** can show table view in **[Obsidian](https://obsidian.md/)** which is like the Database in **[Notion](https://www.notion.so)**.
 
