@@ -23,7 +23,7 @@ Tags:: #abc
 
 ## Usage
 1. Backup your files!!!
-2. Modify following lines to you need:
+2. Modify following lines to your needs:
 ``` python
     path = r'your nodes folder path' 
     properties = ['property1','property2,'] # your notion properties list
