@@ -10,7 +10,7 @@ import os
 from re import compile, search
 
 path = r'your nodes folder path' 
-properties = ['property1','property2,'] # your notion properties list
+properties = ['property1','property2'] # your notion properties list
 
 # file paths
 root_files_path = []
