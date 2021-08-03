@@ -24,6 +24,8 @@ Tags:: #abc
 ## Usage
 1. Backup your files!!!
 2. Modify following lines to you need:
+
   path = r'your nodes folder path' 
+  
   properties = ['property1','property2,'] # your notion properties list
 3. Run
